@@ -22,7 +22,7 @@ int maxReadValue = 1023;//please, don't change this :)
 int maxWriteValue = 255;//don't change this too pls :)
 
 //control the range of volume:
-int minVolume = 200;//you can change this, note that it should not be higher than 255
+int minVolume = 1;//you can change this, note that it should not be higher than 255
 int maxVolume = 255;//you can change this, note that it should not be higher than 255
 /*if both minVolume and maxVolume are set to 255, its like using digitalWrite instead of analog one*/
 
