@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Edgars Brālītis (youtube account: Tubiso). A recovering sczizophrenic (this is probably not the right spelling).
-- 👀 I’m interested in nature, amateur sports, psychology, music, electronics, and all kinds of inventions. 
-- 🌱 I’m currently learning arduino platform, because I want to make a real world prototype of quizFootball. And when some idea have a physical form, it's no more psychotic.
+- 👋 Hi, I’m Edgars Brālītis (youtube account: Tubiso). I love to invent new things.
+- 👀 I’m interested in nature, amateur sports, psychology, music, electronics, and food. 
+- 🌱 I’m currently learning electronics, because I want to make a real world prototype of something amazing.
 - 💞️ I’m looking to collaborate on ... everything that makes human life more natural and relaxed.
 - 📫 How to reach me ... Find me on facebook.
 
